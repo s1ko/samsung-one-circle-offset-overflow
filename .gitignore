@@ -1,0 +1,7 @@
+*.o
+*.so
+harness
+root/
+out*.circle
+dos.circle
+*.deb
